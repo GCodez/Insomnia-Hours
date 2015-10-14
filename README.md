@@ -1,3 +1,3 @@
 # Insomnia-Hours
 
-Simple Vbscript for making awake PC for desired hours
+Simple Vbscript for making your PC awake for desired hours
